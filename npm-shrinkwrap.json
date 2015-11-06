@@ -1201,6 +1201,11 @@
                       "version": "0.4.2",
                       "from": "https://registry.npmjs.org/ncp/-/ncp-0.4.2.tgz",
                       "resolved": "https://registry.npmjs.org/ncp/-/ncp-0.4.2.tgz"
+                    },
+                    "rimraf": {
+                      "version": "2.4.3",
+                      "from": "https://registry.npmjs.org/rimraf/-/rimraf-2.4.3.tgz",
+                      "resolved": "https://registry.npmjs.org/rimraf/-/rimraf-2.4.3.tgz"
                     }
                   }
                 }
@@ -1395,6 +1400,11 @@
               "version": "0.4.2",
               "from": "https://registry.npmjs.org/ncp/-/ncp-0.4.2.tgz",
               "resolved": "https://registry.npmjs.org/ncp/-/ncp-0.4.2.tgz"
+            },
+            "rimraf": {
+              "version": "2.4.3",
+              "from": "https://registry.npmjs.org/rimraf/-/rimraf-2.4.3.tgz",
+              "resolved": "https://registry.npmjs.org/rimraf/-/rimraf-2.4.3.tgz"
             }
           }
         },
